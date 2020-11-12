@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Roman' github stats](https://github-readme-stats.vercel.app/api?username=roman-rr)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Roman' Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-rr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Roman' github stats](https://github-readme-stats.vercel.app/api?username=roman-rr&show_icons=true)
+![Roman' Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-rr&layout=compact)
