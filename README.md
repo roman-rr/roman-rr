@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Roman' github stats](https://github-readme-stats.vercel.app/api?username=roman-rr&show_icons=true)
-![Roman' Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-rr&layout=compact)
+![Roman' github stats](https://github-readme-stats.vercel.app/api?username=roman-rr&show_icons=true&theme=tokyonight)
+![Roman' Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-rr&layout=compact&theme=tokyonight)
