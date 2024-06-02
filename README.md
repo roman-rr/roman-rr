@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 -->
 
 ![Roman' Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-rr&layout=compact&theme=tokyonight)
-
-🐶 Dogecoin tips send to: DJvMKijhaNBwLazdjUCWmWc59teFucu2P5
