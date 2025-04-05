@@ -1,6 +1,7 @@
-- 🔭 I’m currently working on the [panes](https://github.com/roman-rr/cupertino-pane) and private projects. 
-- 🌱 I’m currently learning [Azure Cloud Architecture](https://learn.microsoft.com/en-us/certifications/exams/az-305/)
-- 👯 I’m looking for [sponsorships](https://opencollective.com/cupertino-pane) to make the [panes](https://github.com/roman-rr/cupertino-pane) as essential core of 99% of all web apps.
+- 🦜 I’m currently super-enjoying LLM & *LangChain* workflows! ⛓️‍💥 
+- 🔭 I’m creator of [panes](https://github.com/roman-rr/cupertino-pane) and private projects. 
+- 🌱 I’m wish to obtain Solution Architect [Azure Cloud Architecture](https://learn.microsoft.com/en-us/certifications/exams/az-305/) certification.
+- 👯 I’m looking for challenges with high complexity. 
 
 <!--
 ### Hi there 👋
