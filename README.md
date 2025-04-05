@@ -1,4 +1,4 @@
-- 🦜 I’m currently super-enjoying LLM & *LangChain* workflows!
+- 🦜 I’m currently super-enjoying **LLM** & **LangChain** workflows!
 - ⛓️‍💥 I'm creator of [LLM-toolchain](https://github.com/roman-rr/LLM-toolchain) framework for repid AI Development. 
 - 🔭 I’m creator of UI library [panes](https://github.com/roman-rr/cupertino-pane) and private projects. 
 - 🌱 I’m wish to obtain Solution Architect [Azure Cloud Architecture](https://learn.microsoft.com/en-us/certifications/exams/az-305/) certification.
