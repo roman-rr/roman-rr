@@ -1,24 +1,9 @@
-- 🦜 I’m currently super-enjoying **LLM** & **LangChain** workflows!
-- ⛓️‍💥 I'm creator of [LLM-toolchain](https://github.com/roman-rr/LLM-toolchain) framework for rapid AI Development. 
-- 🔭 I’m creator of UI library [panes](https://github.com/roman-rr/cupertino-pane) and private projects. 
-- 🌱 I’m wish to obtain Solution Architect [Azure Cloud Architecture](https://learn.microsoft.com/en-us/certifications/exams/az-305/) certification.
-- 👯 I’m looking for challenges with high complexity.
-- 🎁 Gift for you: Increase your work productivity with [Focused](https://github.com/roman-rr/focused) (C++/QT App)
+### Hey 👋 I'm Roman — AI Solutions Architect & Full-Stack Engineer
 
-<!--
-### Hi there 👋
-**roman-rr/roman-rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Roman' Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-rr&layout=compact&theme=tokyonight)
+- 🤖 Building **multi-agent AI systems** with **LangGraph**, **LangChain**, and custom orchestration frameworks
+- 📡 Creator of [Aelita](https://aelita.x70.ai) — AI-agentic Telegram platform with Web3 payments, trading signals & 20+ AI personas
+- 🏗️ Architecting production AI pipelines: **speech-to-text**, **real-time email processing**, **RAG**, **vector search**
+- 🎓 **Microsoft Certified AI Engineer** · Multi-cloud: **AWS** · **Azure** · **GCP**
+- 🔭 Creator of [Cupertino Pane](https://github.com/roman-rr/cupertino-pane) — UI library with 1.6K+ GitHub stars
+- ⚡ 20+ years full-stack · Healthcare · Real Estate · Software · Web3
+- 👯 Looking for high-complexity challenges — the kind that need an architect, not just a coder
